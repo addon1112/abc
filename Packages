@@ -102,3 +102,34 @@ MD5sum: a9770dca2370af15f03b812b8f91dc7e
 SHA1: 8cefa000880f4e5e4f1f7fdd47837febb27df3a5
 SHA256: afa1b6f77cf4c84f52550b14120de10cc72fabce6a2146866e1ec905aa88b393
 Pre-depends: mobilesubstrate,com.rpetrich.rocketbootstrap,openssh,applist,sudo,jetslammed,curl,network-cmds,firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),firmware (>= 4.0), gsc.armv7
+
+
+Package: com.nguyentrungkien.AtlTeamhook
+Name: AtlTeamhookREID
+Architecture: iphoneos-arm
+Version: 1.0-192
+Description: Hook  by lyxaben for appleid fix devicetype + limit 3id + bypassid01
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-192_iphoneos-arm.deb
+Size: 24504
+MD5sum: 11504acfa8b21d07c7b45494c0bec699
+SHA1: 48d77379f8da0d0613238a80b12e46352f8b7b77
+SHA256: 49add3ee0ae5c4901c0249f25e43a5aec383e5f8d6fccf844c9cf983dc015c28
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
+Package: com.antran.AutoLeadHelper
+Name: AutoLeadHelperREID
+Architecture: iphoneos-arm
+Version: 1.0-21
+Description: AutoLeadHelper reg appleid by lyxaben bypassid01
+Maintainer: AutoLeadHelper 
+Author: AutoLeadHelper 
+Section: Tweaks
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-21_iphoneos-arm.deb
+Size: 345536
+MD5sum: 139b651ba4d97ad5487d7be77d1e702d
+SHA1: 980398f5c5b487fab981a154c55eb085c916154c
+SHA256: 5260297f37da0d566e541bb682ef9980f5a96cf298034bca5e2333c83396d772
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
