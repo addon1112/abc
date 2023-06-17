@@ -103,7 +103,6 @@ SHA1: 8cefa000880f4e5e4f1f7fdd47837febb27df3a5
 SHA256: afa1b6f77cf4c84f52550b14120de10cc72fabce6a2146866e1ec905aa88b393
 Pre-depends: mobilesubstrate,com.rpetrich.rocketbootstrap,openssh,applist,sudo,jetslammed,curl,network-cmds,firmware (>= 6.0), mobilesubstrate, preferenceloader, applist,cy+cpu.arm64,mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap (>= 1.0.6) | firmware (<< 7.0),firmware (>= 4.0), gsc.armv7
 
-
 Package: com.nguyentrungkien.AtlTeamhook
 Name: AtlTeamhookREID
 Architecture: iphoneos-arm
@@ -119,6 +118,21 @@ SHA1: 48d77379f8da0d0613238a80b12e46352f8b7b77
 SHA256: 49add3ee0ae5c4901c0249f25e43a5aec383e5f8d6fccf844c9cf983dc015c28
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+Package: com.nguyentrungkien.AtlTeamhook
+Name: AtlTeamhookREID
+Architecture: iphoneos-arm
+Version: 1.0-193
+Description: Hook  by lyxaben for appleid fix devicetype + limit 3id + bypassid01
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-193_iphoneos-arm.deb
+Size: 22764
+MD5sum: 971a510854e40c7035297a9b8a336a69
+SHA1: 829acf300d81a50b37d4c6fd38146d446f076e4b
+SHA256: 74d5b80ed913339ad8f60a32b7b426d6aa615745385f6051d9882470a2f4ec83
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
 Package: com.antran.AutoLeadHelper
 Name: AutoLeadHelperREID
 Architecture: iphoneos-arm
@@ -132,4 +146,19 @@ Size: 345536
 MD5sum: 139b651ba4d97ad5487d7be77d1e702d
 SHA1: 980398f5c5b487fab981a154c55eb085c916154c
 SHA256: 5260297f37da0d566e541bb682ef9980f5a96cf298034bca5e2333c83396d772
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.antran.AutoLeadHelper
+Name: AutoLeadHelperREID
+Architecture: iphoneos-arm
+Version: 1.0-22
+Description: AutoLeadHelper reg appleid by lyxaben bypassid01
+Maintainer: AutoLeadHelper 
+Author: AutoLeadHelper 
+Section: Tweaks
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-22_iphoneos-arm.deb
+Size: 345704
+MD5sum: 5b2d7016f7749c992d563307eac8b247
+SHA1: 445f6c93b6f38fe3bf9b53fbe2193d61732a65b7
+SHA256: fedd1ed8e662f4ebf394eff258ecf64d05a313066d21dbd9031da890984d88e1
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
