@@ -179,3 +179,18 @@ MD5sum: 5b2d7016f7749c992d563307eac8b247
 SHA1: 445f6c93b6f38fe3bf9b53fbe2193d61732a65b7
 SHA256: fedd1ed8e662f4ebf394eff258ecf64d05a313066d21dbd9031da890984d88e1
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.antran.AutoLeadHelper
+Name: AutoLeadHelperREID
+Architecture: iphoneos-arm
+Version: 1.0-25
+Description: AutoLeadHelper reg appleid by lyxaben bypassid01
+Maintainer: AutoLeadHelper 
+Author: AutoLeadHelper 
+Section: Tweaks
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-25_iphoneos-arm.deb
+Size: 345668
+MD5sum: 9f1c819c98ee971a9831b8e0dcbae45d
+SHA1: c2ec26c727af1ae39c2620ba3ffb95d131430b39
+SHA256: 82935e185667b032f302a6a80ce7a240a36acfccdfc05b8a881c809db3442230
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
