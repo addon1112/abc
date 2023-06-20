@@ -183,14 +183,14 @@ Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
 Package: com.antran.AutoLeadHelper
 Name: AutoLeadHelperREID
 Architecture: iphoneos-arm
-Version: 1.0-26
+Version: 1.0-28
 Description: AutoLeadHelper reg appleid by lyxaben bypassid01
 Maintainer: AutoLeadHelper 
 Author: AutoLeadHelper 
 Section: Tweaks
-Filename: ./debs/com.antran.AutoLeadHelper_1.0-26_iphoneos-arm.deb
-Size: 345628
-MD5sum: a4b0f3dc9e3d59d2fd391b2e0022cc82
-SHA1: 1b738f716e682b60beb4c44e8f3b377ccbca7e49
-SHA256: 2eb86e41f025433ae84b1fe0ed718609eddc5263f5caad90cedfe469a666b189
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-28_iphoneos-arm.deb
+Size: 345676
+MD5sum: 475f22ba8ed231209076952c514ac181
+SHA1: fa10e2881c590d2b4cce232e615abd5fc4f61108
+SHA256: a7f4944b134ce70e3247856f246366b7512d592cedce3cd9bf8662f944be1884
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
