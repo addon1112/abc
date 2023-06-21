@@ -149,6 +149,20 @@ SHA1: 7e616ce218248ea187c9253f59c3124a9d6ccf98
 SHA256: 64814ffb2c170cbe1809a572141a7d4545839d56083b9627c587b475220dc653
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+Package: com.nguyentrungkien.AtlTeamhook
+Name: AtlTeamhookREID
+Architecture: iphoneos-arm
+Version: 1.0-199
+Description: Hook  by lyxaben for appleid fix devicetype + limit 3id + bypassid01 + bypassid02 + bypass useragent
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-199_iphoneos-arm.deb
+Size: 24496
+MD5sum: 7d76456c353e13cea66f2dd4de11086c
+SHA1: 83f0476178d8d5f4f5dd9af06e88ec914e9c5ca8
+SHA256: 489b0e6d024ecaf0a4b6dd2ea0d867c6a751539adc5012a9a2d088c9d3cf1ed2
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
 Package: com.antran.AutoLeadHelper
 Name: AutoLeadHelperREID
