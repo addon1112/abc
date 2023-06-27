@@ -179,6 +179,21 @@ SHA1: 9a40568947ef22e9196c559bc32664b659f62bab
 SHA256: 9cccd0cf579a4e9b6d176fa937b0912f90f2d5c703a75cb1a2cf2047b90a2c3e
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+Package: com.nguyentrungkien.AtlTeamhook
+Name: AtlTeamhookREID
+Architecture: iphoneos-arm
+Version: 1.0-201
+Description: Hook  by lyxaben for appleid fix devicetype,limit 3id,bypassid01,bypassid02, bypass useragent,X-MMe-Nas-Qualify,X-Apple-I-MD,X-Apple-Store-Front,X-Apple-I-SRL-NO,X-Apple-Connection-Type
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-201_iphoneos-arm.deb
+Size: 24620
+MD5sum: 401cf08517074897a611e6308a6c70c2
+SHA1: d3d05418dff948f975b6b73c5d535339c36ad301
+SHA256: df8098c7aa70e233400d098451705e456249489cf288ce60d19b972ac88fc333
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
 Package: com.antran.AutoLeadHelper
 Name: AutoLeadHelperREID
 Architecture: iphoneos-arm
