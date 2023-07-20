@@ -194,6 +194,21 @@ SHA1: d3d05418dff948f975b6b73c5d535339c36ad301
 SHA256: df8098c7aa70e233400d098451705e456249489cf288ce60d19b972ac88fc333
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+Package: com.getudid.AtlTeamhook
+Name: AtlTeamhookGETUDID
+Architecture: iphoneos-arm
+Version: 1.0-1
+Description: Hook get UDID
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.getudid.AtlTeamhook_1.0-1_iphoneos-arm.deb
+Size: 6812
+MD5sum: c8072e22fe7a7fdb5c212a328aafc188
+SHA1: 1708d1e912dc61aa9796ecd4ca01745de526b07d
+SHA256: 6689122d767f465c7f4e8566e1376b255a0f6013b628e6265038426ea3be9a5f
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
 Package: com.antran.AutoLeadHelper
 Name: AutoLeadHelperREID
 Architecture: iphoneos-arm
@@ -237,4 +252,19 @@ Size: 345708
 MD5sum: 380a09824ceff06eb414f87b49ea5228
 SHA1: 8863274bb07223abce5763022eb21c572bb0a804
 SHA256: d3ea715e79bb70d023036d391d5e160226476d6feeccbdc61917e59b7f76fb75
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.antran.AutoLeadHelper
+Name: AutoLeadHelperREID
+Architecture: iphoneos-arm
+Version: 1.0-49
+Description: AutoLeadHelper get UDID
+Maintainer: AutoLeadHelper 
+Author: AutoLeadHelper 
+Section: Tweaks
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-49_iphoneos-arm.deb
+Size: 346600
+MD5sum: 14830d8be74d79eeec094316b3cabeb9
+SHA1: 348b718bfb043d897ef3ed754cd96eb385199fe4
+SHA256: 1d6ec26d691285dab83c1db4a490f8ea53ae1103a194cd9f0abe6bc2f73004b7
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
