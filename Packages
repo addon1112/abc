@@ -194,6 +194,22 @@ SHA1: d3d05418dff948f975b6b73c5d535339c36ad301
 SHA256: df8098c7aa70e233400d098451705e456249489cf288ce60d19b972ac88fc333
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+
+Package: com.nguyentrungkien.AtlTeamhook
+Name: AtlTeamhookREID
+Architecture: iphoneos-arm
+Version: 1.0-225
+Description: Hook  by lyxaben for appleid bypass X-Mme-Device-Id
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-225_iphoneos-arm.deb
+Size: 12488
+MD5sum: 72bd3899ac2dea8480457dc07a0fc332
+SHA1: 62a72cfb233005220af12e16dc0e59fe2244892f
+SHA256: b49b3b942c88a6f0bfb796dbf56972e3e24046bf842052e97a603513563575aa
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
 Package: com.getudid.AtlTeamhook
 Name: AtlTeamhookGETUDID
 Architecture: iphoneos-arm
@@ -267,4 +283,19 @@ Size: 346600
 MD5sum: 14830d8be74d79eeec094316b3cabeb9
 SHA1: 348b718bfb043d897ef3ed754cd96eb385199fe4
 SHA256: 1d6ec26d691285dab83c1db4a490f8ea53ae1103a194cd9f0abe6bc2f73004b7
+Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
+
+Package: com.antran.AutoLeadHelper
+Name: AutoLeadHelperREID
+Architecture: iphoneos-arm
+Version: 1.0-51
+Description: AutoLeadHelper for hook 225
+Maintainer: AutoLeadHelper 
+Author: AutoLeadHelper 
+Section: Tweaks
+Filename: ./debs/com.antran.AutoLeadHelper_1.0-51_iphoneos-arm.deb
+Size: 346096
+MD5sum: 6640e0bac620e1a29a662d04f1ec1dad
+SHA1: a0416fd81ad7529a338fc4f5e6e895bc4d75e4b0
+SHA256: c18c7d840e39ca00792da5601249fe2d712cae13bdbe4ffe73fc357e35270fbe
 Depends: mobilesubstrate,com.rpetrich.rocketbootstrap
