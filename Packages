@@ -210,6 +210,22 @@ SHA1: 62a72cfb233005220af12e16dc0e59fe2244892f
 SHA256: b49b3b942c88a6f0bfb796dbf56972e3e24046bf842052e97a603513563575aa
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 
+
+Package: com.nguyentrungkien.AtlTeamhook
+Name: AtlTeamhookREID
+Architecture: iphoneos-arm
+Version: 1.0-226
+Description: Hook  by lyxaben for appleid bypass X-Mme-Device-Id
+Maintainer: AtlTeamhook 
+Author: AtlTeamhook 
+Section: Tweaks
+Filename: ./debs/com.nguyentrungkien.AtlTeamhook_1.0-226_iphoneos-arm.deb
+Size: 12604
+MD5sum: eaec9c7c5017a235d281f1abf3e7f1fb
+SHA1: d4a2a1262b7ef7f91ad79055d4a0790e54350f85
+SHA256: f822bd568e94d88392c42aa555954be96a2bbaab3c1af64e1e3312cb72b84ded
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+
 Package: com.getudid.AtlTeamhook
 Name: AtlTeamhookGETUDID
 Architecture: iphoneos-arm
